@@ -33,3 +33,6 @@ To run the notebook locally:
    ```bash
    git clone https://github.com/thouartmammal/Domestic-Violence-Neural-Network.git
    cd Domestic-Violence-Neural-Network
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
