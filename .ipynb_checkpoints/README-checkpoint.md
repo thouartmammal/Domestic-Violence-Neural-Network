@@ -8,6 +8,7 @@ The notebook (`domestic_violence.ipynb`) explores dataset preprocessing, handlin
 ## Project Structure
 - `1_DV_Preprocessing.ipynb` — Jupyter notebook with data exploration and preprocessing.
 - `2_DV_NeuralNetwork.ipynb` - model training, and evaluation.
+- `DV_cleaned_data.csv` - the data after being cleaned and processed with codes written in 1_DV_Preprocessing.ipynb.
 - `README.md` — Documentation of the project.
 
 ---
