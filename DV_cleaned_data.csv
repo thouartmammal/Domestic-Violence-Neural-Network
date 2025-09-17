@@ -1,0 +1,348 @@
+Age,Education,Employment,Income,Marital status,Violence,Age group
+30,secondary,unemployed,0,married,yes,25 ≤ age < 35
+47,tertiary,unemployed,0,married,no,45 ≤ age < 55
+24,tertiary,unemployed,0,unmarred,no,15 ≤ age < 25
+22,tertiary,unemployed,0,unmarred,no,15 ≤ age < 25
+50,primary,unemployed,0,married,yes,45 ≤ age < 55
+21,tertiary,unemployed,0,unmarred,yes,15 ≤ age < 25
+30,tertiary,unemployed,0,married,no,25 ≤ age < 35
+27,tertiary,unemployed,0,married,no,25 ≤ age < 35
+20,tertiary,unemployed,0,unmarred,no,15 ≤ age < 25
+18,secondary,unemployed,0,married,no,15 ≤ age < 25
+40,primary,unemployed,0,married,no,35 ≤ age < 45
+45,primary,unemployed,0,married,yes,45 ≤ age < 55
+45,none,unemployed,0,married,no,45 ≤ age < 55
+40,none,unemployed,0,married,yes,35 ≤ age < 45
+50,primary,unemployed,0,married,yes,45 ≤ age < 55
+43,primary,unemployed,0,married,no,35 ≤ age < 45
+18,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+15,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+44,primary,unemployed,0,married,no,35 ≤ age < 45
+35,secondary,unemployed,0,married,no,35 ≤ age < 45
+40,primary,unemployed,0,married,no,35 ≤ age < 45
+50,none,unemployed,0,married,yes,45 ≤ age < 55
+40,tertiary,unemployed,0,married,yes,35 ≤ age < 45
+35,none,unemployed,0,married,yes,35 ≤ age < 45
+44,primary,unemployed,0,married,no,35 ≤ age < 45
+23,secondary,unemployed,0,married,yes,15 ≤ age < 25
+24,primary,unemployed,0,married,yes,15 ≤ age < 25
+19,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+27,secondary,unemployed,0,married,no,25 ≤ age < 35
+20,secondary,unemployed,0,married,no,15 ≤ age < 25
+18,secondary,unemployed,0,married,no,15 ≤ age < 25
+23,secondary,unemployed,0,married,no,15 ≤ age < 25
+19,secondary,unemployed,0,married,no,15 ≤ age < 25
+19,secondary,unemployed,0,married,no,15 ≤ age < 25
+50,primary,unemployed,0,married,yes,45 ≤ age < 55
+25,secondary,unemployed,0,married,no,25 ≤ age < 35
+19,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+30,primary,unemployed,0,married,yes,25 ≤ age < 35
+24,primary,unemployed,0,married,no,15 ≤ age < 25
+23,tertiary,unemployed,0,unmarred,no,15 ≤ age < 25
+20,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+50,none,unemployed,0,married,yes,45 ≤ age < 55
+21,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+32,tertiary,unemployed,0,unmarred,no,25 ≤ age < 35
+30,tertiary,unemployed,0,unmarred,no,25 ≤ age < 35
+25,secondary,unemployed,0,married,no,25 ≤ age < 35
+26,secondary,unemployed,0,married,yes,25 ≤ age < 35
+40,primary,unemployed,0,married,yes,35 ≤ age < 45
+50,primary,unemployed,0,married,yes,45 ≤ age < 55
+43,none,unemployed,0,married,yes,35 ≤ age < 45
+35,tertiary,unemployed,0,married,yes,35 ≤ age < 45
+40,primary,unemployed,0,married,yes,35 ≤ age < 45
+40,secondary,unemployed,0,married,yes,35 ≤ age < 45
+25,secondary,unemployed,0,married,no,25 ≤ age < 35
+23,secondary,unemployed,0,married,no,15 ≤ age < 25
+37,tertiary,unemployed,0,married,yes,35 ≤ age < 45
+33,primary,unemployed,0,married,yes,25 ≤ age < 35
+23,secondary,unemployed,0,married,no,15 ≤ age < 25
+42,none,unemployed,0,married,yes,35 ≤ age < 45
+33,primary,unemployed,0,married,yes,25 ≤ age < 35
+30,primary,unemployed,0,married,yes,25 ≤ age < 35
+33,secondary,unemployed,0,married,no,25 ≤ age < 35
+23,secondary,unemployed,0,married,no,15 ≤ age < 25
+22,tertiary,unemployed,0,married,yes,15 ≤ age < 25
+19,secondary,unemployed,0,married,yes,15 ≤ age < 25
+25,primary,unemployed,0,married,yes,25 ≤ age < 35
+30,secondary,unemployed,0,married,yes,25 ≤ age < 35
+40,secondary,unemployed,0,married,no,35 ≤ age < 45
+27,primary,unemployed,0,married,yes,25 ≤ age < 35
+24,primary,unemployed,0,married,yes,15 ≤ age < 25
+30,primary,unemployed,0,married,no,25 ≤ age < 35
+35,primary,unemployed,0,married,yes,35 ≤ age < 45
+50,primary,unemployed,0,married,yes,45 ≤ age < 55
+47,primary,unemployed,0,married,yes,45 ≤ age < 55
+20,secondary,unemployed,0,married,no,15 ≤ age < 25
+23,secondary,unemployed,0,married,no,15 ≤ age < 25
+30,tertiary,unemployed,0,married,no,25 ≤ age < 35
+40,primary,unemployed,0,married,yes,35 ≤ age < 45
+54,primary,unemployed,0,married,yes,45 ≤ age < 55
+33,primary,unemployed,0,married,no,25 ≤ age < 35
+40,none,unemployed,0,married,no,35 ≤ age < 45
+35,none,unemployed,0,married,no,35 ≤ age < 45
+22,primary,unemployed,0,married,no,15 ≤ age < 25
+34,none,unemployed,0,married,no,25 ≤ age < 35
+45,primary,unemployed,0,married,no,45 ≤ age < 55
+27,none,unemployed,0,married,no,25 ≤ age < 35
+45,none,unemployed,0,married,no,45 ≤ age < 55
+39,primary,unemployed,0,married,yes,35 ≤ age < 45
+37,none,unemployed,0,married,no,35 ≤ age < 45
+21,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+29,none,unemployed,0,married,no,25 ≤ age < 35
+23,primary,unemployed,0,married,no,15 ≤ age < 25
+51,none,unemployed,0,married,no,45 ≤ age < 55
+33,primary,unemployed,0,unmarred,no,25 ≤ age < 35
+25,secondary,unemployed,0,married,no,25 ≤ age < 35
+26,none,unemployed,0,married,no,25 ≤ age < 35
+50,none,unemployed,0,married,no,45 ≤ age < 55
+29,primary,unemployed,0,married,no,25 ≤ age < 35
+28,primary,unemployed,0,married,no,25 ≤ age < 35
+18,none,unemployed,0,married,no,15 ≤ age < 25
+35,none,unemployed,0,married,yes,35 ≤ age < 45
+34,tertiary,unemployed,0,married,no,25 ≤ age < 35
+25,none,unemployed,0,married,no,25 ≤ age < 35
+46,primary,unemployed,0,married,yes,45 ≤ age < 55
+19,secondary,unemployed,0,married,no,15 ≤ age < 25
+40,none,unemployed,0,married,no,35 ≤ age < 45
+22,primary,unemployed,0,married,no,15 ≤ age < 25
+18,primary,unemployed,0,married,yes,15 ≤ age < 25
+30,tertiary,unemployed,0,married,no,25 ≤ age < 35
+21,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+55,none,unemployed,0,married,no,55 ≤ age < 65
+32,none,unemployed,0,married,no,25 ≤ age < 35
+35,none,unemployed,0,married,no,35 ≤ age < 45
+18,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+35,primary,unemployed,0,married,no,35 ≤ age < 45
+36,none,unemployed,0,married,no,35 ≤ age < 45
+50,primary,unemployed,0,married,no,45 ≤ age < 55
+30,secondary,unemployed,0,married,no,25 ≤ age < 35
+24,tertiary,unemployed,0,unmarred,no,15 ≤ age < 25
+47,none,unemployed,0,married,no,45 ≤ age < 55
+30,none,unemployed,0,married,no,25 ≤ age < 35
+30,tertiary,unemployed,0,married,no,25 ≤ age < 35
+35,primary,unemployed,0,married,no,35 ≤ age < 45
+55,none,unemployed,0,married,yes,55 ≤ age < 65
+19,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+19,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+38,primary,unemployed,0,married,no,35 ≤ age < 45
+25,none,unemployed,0,married,no,25 ≤ age < 35
+35,none,unemployed,0,married,no,35 ≤ age < 45
+30,primary,unemployed,0,married,no,25 ≤ age < 35
+24,none,unemployed,0,married,no,15 ≤ age < 25
+20,primary,unemployed,0,married,no,15 ≤ age < 25
+40,none,unemployed,0,married,no,35 ≤ age < 45
+56,none,unemployed,0,married,no,55 ≤ age < 65
+15,primary,unemployed,0,unmarred,yes,15 ≤ age < 25
+26,secondary,unemployed,0,married,no,25 ≤ age < 35
+60,primary,unemployed,0,married,no,55 ≤ age < 65
+44,primary,unemployed,0,married,no,35 ≤ age < 45
+17,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+45,primary,unemployed,0,married,no,45 ≤ age < 55
+19,none,unemployed,0,married,yes,15 ≤ age < 25
+43,none,unemployed,0,married,no,35 ≤ age < 45
+22,none,unemployed,0,married,no,15 ≤ age < 25
+44,primary,unemployed,0,married,no,35 ≤ age < 45
+30,secondary,unemployed,0,married,no,25 ≤ age < 35
+39,none,unemployed,0,married,no,35 ≤ age < 45
+40,none,unemployed,0,married,no,35 ≤ age < 45
+42,none,unemployed,0,married,no,35 ≤ age < 45
+18,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+30,primary,unemployed,0,married,no,25 ≤ age < 35
+25,none,unemployed,0,married,no,25 ≤ age < 35
+51,primary,unemployed,0,married,no,45 ≤ age < 55
+23,tertiary,unemployed,0,married,no,15 ≤ age < 25
+33,none,unemployed,0,married,no,25 ≤ age < 35
+25,tertiary,unemployed,0,unmarred,no,25 ≤ age < 35
+50,none,unemployed,0,married,yes,45 ≤ age < 55
+45,primary,unemployed,0,married,yes,45 ≤ age < 55
+30,tertiary,unemployed,0,married,no,25 ≤ age < 35
+26,tertiary,unemployed,0,married,no,25 ≤ age < 35
+35,secondary,unemployed,0,married,no,35 ≤ age < 45
+32,secondary,unemployed,0,married,no,25 ≤ age < 35
+26,secondary,unemployed,0,married,no,25 ≤ age < 35
+23,primary,unemployed,0,married,no,15 ≤ age < 25
+20,primary,unemployed,0,married,no,15 ≤ age < 25
+22,primary,unemployed,0,married,no,15 ≤ age < 25
+19,primary,unemployed,0,married,no,15 ≤ age < 25
+35,primary,unemployed,0,married,no,35 ≤ age < 45
+25,primary,unemployed,0,married,no,25 ≤ age < 35
+47,primary,unemployed,0,married,yes,45 ≤ age < 55
+44,primary,unemployed,0,married,no,35 ≤ age < 45
+33,primary,unemployed,0,married,no,25 ≤ age < 35
+28,primary,unemployed,0,married,no,25 ≤ age < 35
+19,tertiary,unemployed,0,unmarred,no,15 ≤ age < 25
+35,primary,unemployed,0,married,yes,35 ≤ age < 45
+40,primary,unemployed,0,married,yes,35 ≤ age < 45
+29,secondary,unemployed,0,married,no,25 ≤ age < 35
+20,primary,unemployed,0,married,yes,15 ≤ age < 25
+26,secondary,unemployed,0,married,yes,25 ≤ age < 35
+24,secondary,unemployed,0,married,no,15 ≤ age < 25
+33,secondary,unemployed,0,married,yes,25 ≤ age < 35
+21,primary,unemployed,0,married,yes,15 ≤ age < 25
+22,primary,unemployed,0,married,no,15 ≤ age < 25
+23,primary,unemployed,0,married,yes,15 ≤ age < 25
+25,primary,unemployed,0,married,yes,25 ≤ age < 35
+30,secondary,unemployed,0,married,yes,25 ≤ age < 35
+23,primary,unemployed,0,married,yes,15 ≤ age < 25
+28,primary,unemployed,0,married,no,25 ≤ age < 35
+25,primary,unemployed,0,married,yes,25 ≤ age < 35
+30,primary,unemployed,0,married,no,25 ≤ age < 35
+29,tertiary,unemployed,0,married,no,25 ≤ age < 35
+44,primary,unemployed,0,married,no,35 ≤ age < 45
+23,secondary,unemployed,0,married,no,15 ≤ age < 25
+20,primary,unemployed,0,married,yes,15 ≤ age < 25
+21,primary,unemployed,0,married,no,15 ≤ age < 25
+19,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+29,secondary,unemployed,0,married,yes,25 ≤ age < 35
+26,secondary,unemployed,0,married,no,25 ≤ age < 35
+44,secondary,unemployed,0,married,no,35 ≤ age < 45
+22,secondary,unemployed,0,married,no,15 ≤ age < 25
+34,primary,unemployed,0,married,no,25 ≤ age < 35
+46,primary,unemployed,0,married,yes,45 ≤ age < 55
+38,primary,unemployed,0,married,no,35 ≤ age < 45
+33,secondary,unemployed,0,married,no,25 ≤ age < 35
+29,tertiary,unemployed,0,married,yes,25 ≤ age < 35
+34,secondary,unemployed,0,married,no,25 ≤ age < 35
+26,secondary,unemployed,0,married,no,25 ≤ age < 35
+33,secondary,unemployed,0,married,no,25 ≤ age < 35
+44,primary,unemployed,0,married,no,35 ≤ age < 45
+25,primary,unemployed,0,married,yes,25 ≤ age < 35
+36,primary,unemployed,0,married,no,35 ≤ age < 45
+22,secondary,unemployed,0,married,no,15 ≤ age < 25
+28,primary,unemployed,0,married,no,25 ≤ age < 35
+46,primary,unemployed,0,married,no,45 ≤ age < 55
+42,primary,unemployed,0,married,no,35 ≤ age < 45
+33,secondary,unemployed,0,married,no,25 ≤ age < 35
+21,primary,unemployed,0,married,no,15 ≤ age < 25
+24,primary,unemployed,0,married,yes,15 ≤ age < 25
+32,tertiary,unemployed,0,married,yes,25 ≤ age < 35
+33,primary,unemployed,0,married,no,25 ≤ age < 35
+25,secondary,unemployed,0,married,no,25 ≤ age < 35
+25,secondary,unemployed,0,married,no,25 ≤ age < 35
+29,primary,unemployed,0,married,no,25 ≤ age < 35
+21,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+36,primary,unemployed,0,married,no,35 ≤ age < 45
+44,primary,unemployed,0,married,no,35 ≤ age < 45
+31,primary,unemployed,0,married,no,25 ≤ age < 35
+30,secondary,unemployed,0,married,no,25 ≤ age < 35
+27,secondary,unemployed,0,married,no,25 ≤ age < 35
+20,secondary,unemployed,0,married,no,15 ≤ age < 25
+24,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+33,primary,unemployed,0,married,no,25 ≤ age < 35
+22,secondary,unemployed,0,married,no,15 ≤ age < 25
+24,secondary,unemployed,0,married,no,15 ≤ age < 25
+42,primary,unemployed,0,married,yes,35 ≤ age < 45
+38,primary,unemployed,0,married,no,35 ≤ age < 45
+28,secondary,unemployed,0,married,yes,25 ≤ age < 35
+22,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+21,primary,unemployed,0,unmarred,no,15 ≤ age < 25
+23,secondary,unemployed,0,married,no,15 ≤ age < 25
+34,secondary,unemployed,0,married,no,25 ≤ age < 35
+36,primary,unemployed,0,married,no,35 ≤ age < 45
+25,secondary,unemployed,0,married,no,25 ≤ age < 35
+45,primary,unemployed,0,married,no,45 ≤ age < 55
+31,secondary,unemployed,0,married,yes,25 ≤ age < 35
+22,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+28,secondary,unemployed,0,married,yes,25 ≤ age < 35
+36,primary,unemployed,0,married,no,35 ≤ age < 45
+41,primary,unemployed,0,married,no,35 ≤ age < 45
+20,secondary,unemployed,0,married,no,15 ≤ age < 25
+31,secondary,unemployed,0,married,yes,25 ≤ age < 35
+36,primary,unemployed,0,married,no,35 ≤ age < 45
+31,secondary,unemployed,0,married,no,25 ≤ age < 35
+47,primary,unemployed,0,married,no,45 ≤ age < 55
+23,secondary,unemployed,0,unmarred,yes,15 ≤ age < 25
+36,primary,unemployed,0,married,no,35 ≤ age < 45
+38,primary,unemployed,0,married,no,35 ≤ age < 45
+28,secondary,unemployed,0,married,no,25 ≤ age < 35
+29,secondary,unemployed,0,married,no,25 ≤ age < 35
+31,primary,unemployed,0,married,no,25 ≤ age < 35
+43,primary,unemployed,0,married,yes,35 ≤ age < 45
+44,primary,unemployed,0,married,no,35 ≤ age < 45
+21,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+20,secondary,unemployed,0,married,no,15 ≤ age < 25
+23,secondary,unemployed,0,married,yes,15 ≤ age < 25
+36,primary,unemployed,0,married,no,35 ≤ age < 45
+42,primary,unemployed,0,married,no,35 ≤ age < 45
+33,primary,unemployed,0,married,no,25 ≤ age < 35
+23,secondary,unemployed,0,unmarred,no,15 ≤ age < 25
+32,primary,unemployed,0,married,yes,25 ≤ age < 35
+50,primary,unemployed,8,married,no,45 ≤ age < 55
+19,secondary,semi employed,1000,unmarred,no,15 ≤ age < 25
+45,none,unemployed,1000,married,no,45 ≤ age < 55
+22,secondary,semi employed,1200,married,yes,15 ≤ age < 25
+33,primary,semi employed,1500,married,no,25 ≤ age < 35
+30,primary,semi employed,2000,married,no,25 ≤ age < 35
+18,secondary,semi employed,2000,unmarred,no,15 ≤ age < 25
+25,primary,semi employed,2000,married,no,25 ≤ age < 35
+22,primary,semi employed,2000,married,no,15 ≤ age < 25
+24,secondary,employed,2000,unmarred,no,15 ≤ age < 25
+29,primary,semi employed,2200,married,no,25 ≤ age < 35
+23,none,semi employed,2500,married,no,15 ≤ age < 25
+27,secondary,semi employed,2500,married,yes,25 ≤ age < 35
+26,primary,semi employed,2500,married,no,25 ≤ age < 35
+46,primary,employed,2500,married,yes,45 ≤ age < 55
+20,tertiary,semi employed,3000,unmarred,no,15 ≤ age < 25
+27,primary,semi employed,3000,married,no,25 ≤ age < 35
+21,secondary,semi employed,3000,unmarred,no,15 ≤ age < 25
+25,secondary,semi employed,3000,unmarred,no,25 ≤ age < 35
+27,primary,semi employed,3000,married,no,25 ≤ age < 35
+19,secondary,semi employed,3000,married,no,15 ≤ age < 25
+50,tertiary,employed,3500,married,yes,45 ≤ age < 55
+26,secondary,semi employed,3500,married,no,25 ≤ age < 35
+25,primary,semi employed,3500,married,no,25 ≤ age < 35
+30,secondary,semi employed,4000,married,no,25 ≤ age < 35
+48,secondary,semi employed,4000,married,no,45 ≤ age < 55
+21,secondary,semi employed,4000,unmarred,no,15 ≤ age < 25
+43,primary,semi employed,4000,married,no,35 ≤ age < 45
+50,primary,employed,5000,married,no,45 ≤ age < 55
+45,none,semi employed,5000,married,yes,45 ≤ age < 55
+20,secondary,semi employed,5000,unmarred,no,15 ≤ age < 25
+27,none,semi employed,5000,married,no,25 ≤ age < 35
+29,secondary,semi employed,5000,unmarred,no,25 ≤ age < 35
+23,tertiary,semi employed,5000,unmarred,no,15 ≤ age < 25
+22,secondary,semi employed,5000,married,yes,15 ≤ age < 25
+28,secondary,employed,5000,married,yes,25 ≤ age < 35
+42,none,semi employed,5500,married,no,35 ≤ age < 45
+45,none,semi employed,5500,married,no,45 ≤ age < 55
+25,none,semi employed,6000,married,no,25 ≤ age < 35
+31,tertiary,semi employed,6000,married,no,25 ≤ age < 35
+28,tertiary,semi employed,6000,married,no,25 ≤ age < 35
+22,secondary,semi employed,6000,married,no,15 ≤ age < 25
+27,secondary,semi employed,7000,married,no,25 ≤ age < 35
+39,primary,employed,7000,married,yes,35 ≤ age < 45
+26,tertiary,semi employed,8000,unmarred,no,25 ≤ age < 35
+45,none,semi employed,8000,married,no,45 ≤ age < 55
+48,primary,semi employed,8000,married,yes,45 ≤ age < 55
+44,primary,semi employed,9000,married,no,35 ≤ age < 45
+27,tertiary,semi employed,10000,married,no,25 ≤ age < 35
+40,none,semi employed,10000,married,no,35 ≤ age < 45
+30,primary,semi employed,10000,married,no,25 ≤ age < 35
+18,secondary,employed,10000,unmarred,no,15 ≤ age < 25
+28,tertiary,employed,12000,married,no,25 ≤ age < 35
+30,secondary,semi employed,12000,married,no,25 ≤ age < 35
+35,none,semi employed,15000,married,no,35 ≤ age < 45
+25,primary,employed,15000,married,yes,25 ≤ age < 35
+23,secondary,employed,15000,married,no,15 ≤ age < 25
+26,primary,employed,15000,married,no,25 ≤ age < 35
+26,secondary,semi employed,18000,married,no,25 ≤ age < 35
+22,secondary,employed,20000,married,no,15 ≤ age < 25
+43,tertiary,employed,22000,married,no,35 ≤ age < 45
+37,tertiary,employed,22000,married,no,35 ≤ age < 45
+35,tertiary,employed,22000,married,no,35 ≤ age < 45
+30,tertiary,employed,22000,married,no,25 ≤ age < 35
+30,tertiary,employed,22000,married,no,25 ≤ age < 35
+42,tertiary,employed,24000,married,no,35 ≤ age < 45
+40,tertiary,employed,24000,married,no,35 ≤ age < 45
+43,tertiary,employed,24000,married,yes,35 ≤ age < 45
+40,tertiary,employed,25000,married,no,35 ≤ age < 45
+26,tertiary,employed,25000,married,no,25 ≤ age < 35
+29,secondary,employed,25000,married,no,25 ≤ age < 35
+45,tertiary,employed,27000,married,no,45 ≤ age < 55
+45,tertiary,employed,28000,married,no,45 ≤ age < 55
+27,tertiary,semi employed,30000,unmarred,no,25 ≤ age < 35
+26,tertiary,employed,35000,married,no,25 ≤ age < 35
+27,primary,unemployed,0,married,yes,25 ≤ age < 35
+29,primary,unemployed,0,married,no,25 ≤ age < 35
+24,secondary,unemployed,0,married,no,15 ≤ age < 25
